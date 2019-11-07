@@ -1,6 +1,6 @@
-#learn-html
+# learn-html
 
-#HTML
+# HTML
 
 ## Semantic Elements
 
@@ -17,3 +17,17 @@ Examples
 # Connecting your code to a live Netlify repo
 
 Sign up with Netflify.com
+
+# Markdown Syntax
+
+# Main
+## Sub Header
+### Sub-Sub Header
+
+*italics*
+**bold**
+***bold italics***
+
+This is a `highlight` for individual words/ blocks of text
+
+> This can be used to quote a whole paragraph ('blockquote')
