@@ -35,3 +35,5 @@ This is a `highlight` for individual words/ blocks of text
 We can use regular html for images
 
 <img src="https://www.mbnep.org/wp-content/uploads/2018/07/sea-lion-3054045_1920.jpg" width ="150" />
+
+We can also <span style="text-decoration:underline;"> underline </span> text
