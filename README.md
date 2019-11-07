@@ -36,4 +36,25 @@ We can use regular html for images
 
 <img src="https://www.mbnep.org/wp-content/uploads/2018/07/sea-lion-3054045_1920.jpg" width ="150" />
 
-We can also <span style="text-decoration:underline;"> underline </span> text
+### Code highlighting
+
+
+```
+int x = 1;
+```
+	This is tabbed once
+	It can be used for code
+
+```java
+int x = 1;
+
+```<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+```
